@@ -1,2 +1,2 @@
 #!/bin/bash
-cmho -R +x .
+cmhod -R +x .
